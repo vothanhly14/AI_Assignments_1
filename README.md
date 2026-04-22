@@ -1,1 +1,2 @@
-# AI_Assignments_1
+Sinh viên: Võ Thanh Ly
+Mã số sinh viên: 31231020589
